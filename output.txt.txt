@@ -1,0 +1,9 @@
+Sayi ureteci baslatiliyor...
+Ornek Cikti (Ilk 64 bit): 0110001100111110111011101110111100000101001111001101000100001000...
+
+--- Sonuclar ---
+Toplam Uretilen: 5000 bit
+0 Sayisi: 2501
+1 Sayisi: 2499
+Oranlar -> 0: %50.02 | 1: %49.98
+Sonuc: Denge saglandi. (Basarili)
